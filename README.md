@@ -7,6 +7,6 @@
 <br>
 
 <div align=center>
- <img src="https://github-profile-trophy.vercel.app/?username=Cristi4nSt&theme=onedark">
+ <img src="https://github-profile-trophy.vercel.app/?username=Cristi4nSt&theme=algolia">
 </div>
 
