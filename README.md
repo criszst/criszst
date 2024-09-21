@@ -19,7 +19,7 @@
 
 </div>
 <div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/sasmithx?style=social"> &nbsp;&nbsp; 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/sasmithx?style=social" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/criszt?style=social"> &nbsp;&nbsp; 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/criszt?style=social" />
 </div>
 
