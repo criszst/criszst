@@ -13,13 +13,3 @@
 </div>
 
 
-<p align="center">
-  <img  width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
-</div>
-<div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/criszst?style=social"> &nbsp;&nbsp; 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/criszst?style=social" />
-</div>
-
