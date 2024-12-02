@@ -14,7 +14,7 @@ cristian...
 ▔▔▔▔▔▔▔▔
 Location: Brasil, SP
 Learning: TypeScript & Asymptotic Notation
-Hobbies: Programming, eletric guitar as a hobby and reading several books
+Hobbies: Programming, playing eletric guitar and reading several books
 ```
 
 
