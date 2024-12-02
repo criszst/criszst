@@ -10,8 +10,8 @@ Hobbies: Programming, eletric guitar as a hobby and reading several books
 
 
  <div align="center">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=criszst&show_icons=true&theme=radical"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszst&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=criszst&show_icons=true&theme=radical"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszst&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
 </div>
 
 
