@@ -1,5 +1,5 @@
 
-<a href="#"><img align="left" src="https://i.pinimg.com/736x/08/47/3b/08473b8799872cc62cc62817d5e46882.jpg" width="180"/> 
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/a6/b0/89/a6b0891684b7e9d0ddc6262191ff340c.jpg" width="180"/> 
 ```javascript
 cristian...
 ▔▔▔▔▔▔▔▔
@@ -10,8 +10,8 @@ Hobbies: Programming, eletric guitar as a hobby and reading several books
 
 
  <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=criszst&show_icons=true&theme=radical"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszst&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=criszst&show_icons=true&theme=radical"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszst&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
 </div>
 
 
