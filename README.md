@@ -1,5 +1,5 @@
 
-<a href="#"><img align="left" src="https://i.pinimg.com/736x/86/cf/fc/86cffc8844673c5aece3b087b0bc2fa1.jpg" width="80"/> 
+<a href="#"><img align="left" src="https://i.pinimg.com/736x/08/47/3b/08473b8799872cc62cc62817d5e46882.jpg" width="180"/> 
 ```javascript
 cristian...
 ▔▔▔▔▔▔▔▔
