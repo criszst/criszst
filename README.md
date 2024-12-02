@@ -1,5 +1,5 @@
 
-<a href="#"><img align="left" src="https://i.pinimg.com/736x/f0/f4/71/f0f471de620ea2a2eb8e42eeb2f68ec9.jpg" width="180"/> 
+<a href="#"  style="border-radius: 100px !important"><img align="left" src="https://i.pinimg.com/736x/f0/f4/71/f0f471de620ea2a2eb8e42eeb2f68ec9.jpg" width="150"/> 
 
 ```javascript
 cristian...
@@ -10,8 +10,12 @@ Hobbies: Programming, eletric guitar as a hobby and reading several books
 ```
 
 
----
 <br>
+
+---
+
+<br>
+
  <div align="center">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=criszst&show_icons=true&theme=radical"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszst&layout=compact&langs_count=7&theme=radical" alt="Top Langs"/>
