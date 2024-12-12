@@ -2,12 +2,13 @@
     <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Howdy+,y'all!!"/>
 </a>
 
-<a href="https://github.com/criszst">
+
+<a href="https://github.com/criszst" >
     <a href="#">
-     <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=20&pause=2000&color=3b4e69&center=true&vCenter=true&width=1000&height=60&lines=<-+Just+a+programmer+enthusiast+here..+->"/>
+     <img style="width: 100%; height: 20%; border-radius: 50px" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=20&pause=2000&color=3b4e69&center=true&vCenter=true&width=1000&height=60&lines=<-+Just+a+programmer+enthusiast+here..+->"/>
 </a>
      
-<a href="#"  style="border-radius: 100px !important"><img align="left" src="https://i.pinimg.com/736x/f0/f4/71/f0f471de620ea2a2eb8e42eeb2f68ec9.jpg" width="150"/> 
+<a href="#"  style="border-radius: 100px !important"><img align="left" src="https://github.com/user-attachments/assets/9814b199-d362-4461-91e8-9c1a7d8c3801" width="150"/> 
 
 ```javascript
 cristian...
@@ -18,6 +19,8 @@ Hobbies: Programming, play electric guitar and read several books
 ```
 
 
+<br>
+<br>
 <br>
 
 ---
