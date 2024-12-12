@@ -8,7 +8,7 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=20&pause=2000&color=3b4e69&center=true&vCenter=true&width=1000&height=60&lines=<-+Just+a+programmer+enthusiast+here..+->"/>
 </a>
      
-
+<a href="#"  style="border-radius: 100px !important"><img align="left" src="https://i.pinimg.com/736x/7a/d4/2b/7ad42bc5c1cd110f86d8b54205410afd.jpg" width="150"/> 
 
 ```javascript
 cristian...
@@ -17,6 +17,10 @@ Location: Brasil, SP
 Learning: TypeScript & Asymptotic Notation
 Hobbies: Programming, play electric guitar and read several books
 ```
+
+
+<br>
+<br>
 <br>
 
 ---
