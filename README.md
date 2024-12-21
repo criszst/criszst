@@ -36,10 +36,7 @@ Hobbies: Programming, play electric guitar and read several books
 <br>
 
 <div align="center">
-<!-- frontend -->
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=222d3d" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=222d3d" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&color=222d3d" />
+
 
 
  <!--- backend --->
