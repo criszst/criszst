@@ -13,7 +13,7 @@ A 16-year-old kid who loves studying Big O Notation. Currently, I’m working on
 
 
 ```javascript
-cristian...
+c r i s t i a n
 ▔▔▔▔▔▔▔▔
 Location: Brasil, SP
 Learning: TypeScript & Asymptotic Notation
