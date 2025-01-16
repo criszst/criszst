@@ -5,10 +5,12 @@
 
 <a href="https://github.com/criszst" >
     <a href="#">
-     <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=20&pause=2000&color=3b4e69&center=true&vCenter=true&width=1000&height=60&lines=<-+Just+a+programmer+enthusiast+here..+->"/>
+     <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=20&pause=2000&color=3b4e69&center=true&vCenter=true&width=1000&height=60&lines=<-+Just+a+programmer+enthusiast+here+->"/>
 </a>
-     
-<a href="#"  style="border-radius: 100px !important"><img align="left" src="https://i.pinimg.com/736x/80/e0/1c/80e01c1c74dacb0e1508f5b45cc2d595.jpg" width="100"/> 
+
+A 16-year-old kid who loves studying Big O Notation. Currently, I’m working on a mobile app, kind of a notes app. Btw, I also enjoy studying new technologies and exploring React nuances (I mean, the theory behind Context API, lifecycle methods **-** you get it). Also (this is the last "also", i promise), in my spare time, i usually think about new projects and how they can be helpful to someone, which motivates me to study more and more about this small world of technology. :)
+
+
 
 ```javascript
 cristian...
@@ -20,8 +22,7 @@ Hobbies: Programming, play electric guitar and read several books
 
 
 <br>
-<br>
-<br>
+
 
 ---
 
