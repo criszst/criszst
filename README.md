@@ -10,7 +10,7 @@
 
 A 16-year-old kid who loves studying Big O Notation. Currently, I’m working on a private project (a mobile app, kind of a notes app). Btw, I also enjoy studying new technologies and exploring React nuances (I mean, the theory behind Context API, lifecycle methods **-** you get it). Also (this is the last "also", i promise) in my spare time, i usually think about new projects and how they can be helpful to someone, which motivates me to study more and more about this small world of technology. :)
 
-~For reasons i can't explain, i hate desing 😔~
+~For some reasons i can't explain, i hate desing 😔~
 
 
 
