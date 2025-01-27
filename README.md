@@ -19,7 +19,7 @@ c r i s t i a n
 ▔▔▔▔▔▔▔▔
 Location: Brazil, SP
 Learning: Asymptotic Notation & React Native
-Hobbies: Programming, play acoustic/electric guitar and read several books
+Hobbies: Chess, play acoustic/electric guitar and read several books
 ```
 
 
