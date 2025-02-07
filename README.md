@@ -21,7 +21,7 @@ A 16-year-old kid who loves studying Big O Notation. Currently, I’m studying a
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,tailwind,nodejs,express,electron,discordjs,vscode,git,sq" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,nextjs,tailwind,nodejs,express,electron,discordjs,vscode,git,sq" />
   </a>
 </p>
 
