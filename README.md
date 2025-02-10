@@ -4,7 +4,7 @@
     <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=c674ff&center=true&vCenter=true&width=1000&height=60&lines=Howdy,+y'all!!"/>
 </a>
 
-A 16-year-old kid who loves studying Big O Notation. Btw, I also enjoy contributing to open sources and exploring more about types on TypeScript. In my spare time, i usually think about new projects and how they can be helpful to someone, which motivates me to study more and more about this small world of technology :)
+A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contributing to open sources and exploring more about types on TypeScript. In my spare time, i usually think about new projects and how they can be helpful to someone, which motivates me to study more and more about this small world of technology :)
 </div>
 
 ---
