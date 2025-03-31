@@ -25,4 +25,12 @@ A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contribut
   </a>
 </p>
 
-</div>
+<p align="center">
+    <a href="https://github.com/Guilherme-j10/betterQJump/tree/main">
+        Fav Extension
+    </a>
+</p>
+
+
+</div
+
