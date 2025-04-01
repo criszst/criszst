@@ -26,8 +26,14 @@ A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contribut
 </p>
 
 <p align="center">
+    <a href="https://github.com/criszst/criszst">
+      See this readme code
+    </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/Guilherme-j10/betterQJump/tree/main">
-        Fav Extension
+        my fav extension~
     </a>
 </p>
 
