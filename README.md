@@ -88,7 +88,7 @@ function backSubstitution(matrix: number[][]): number[] {
 
 function linearSystemResult<Nb extends number>(A: SquareMatrix<Nb>, B: number[]): void {
   if (!isSquare(A, 3)) {
-    return console.error('Invalid matriz')
+    return console.error('Invalid matrix')
   }
 
   const augmented = augmentedMatrix(A, B)
@@ -106,12 +106,12 @@ const A = [
 const B = [8, -11, -3];
 
 if (!isSquare(A, 3)) {
-  return console.error('Matriz A needed to be equals three rows')
+  return console.error('Matrix A needed to be equals three rows')
 }
 
 linearSystemResult(A, B)
 
-</details>
 ```
+</details>
 </div>
 
