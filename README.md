@@ -110,7 +110,9 @@ if (!isSquare(A, 3)) {
 }
 
 linearSystemResult(A, B)
-
+/* output:
+Solution: [2, 3, -1] 
+*/
 ```
 </details>
 </div>
