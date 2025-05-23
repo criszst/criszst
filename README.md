@@ -37,12 +37,15 @@ A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contribut
     </a>
 </p>
 
+<!---
 </br>
+
+
 <div style='fontSize: 12px'>
 <details>
   <summary>an algorithm inspired by Elimination Gauss that solves linear sistems, which sometimes big o equals to O(n)</summary>
 
-```ts
+ts
 // A simple (and too "excessive code", cause i create types that are not needed) Elimination Gauss with Ax = B Formula
 // ...if this algorithm wasn't o(3), i'd get a tattoo on my face 
 
@@ -113,7 +116,7 @@ linearSystemResult(A, B)
 /* output:
 Solution: [2, 3, -1] 
 */
-```
+
 </details>
-</div>
+</div>*\
 
