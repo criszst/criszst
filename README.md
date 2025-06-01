@@ -25,6 +25,12 @@ A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contribut
   </a>
 </p>
 
+<div align='center'>
+    <img src='https://komarev.com/ghpvc/?username=criszst' />
+</div>
+
+<br>
+
 <p align="center">
     <a href="https://github.com/criszst/criszst">
       See this readme code
@@ -36,87 +42,3 @@ A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contribut
         my fav extension~
     </a>
 </p>
-
-<!---
-</br>
-
-
-<div style='fontSize: 12px'>
-<details>
-  <summary>an algorithm inspired by Elimination Gauss that solves linear sistems, which sometimes big o equals to O(n)</summary>
-
-ts
-// A simple (and too "excessive code", cause i create types that are not needed) Elimination Gauss with Ax = B Formula
-// ...if this algorithm wasn't o(3), i'd get a tattoo on my face 
-
-type SquareMatrix<Nb extends number> = number[][] & {length: Nb}
-
-function isSquare<Nb extends number>(matrix: number[][], size: Nb): matrix is SquareMatrix<Nb> {
-  return matrix.length === size && matrix.every(row => row.length === size)
-}
-
-function augmentedMatrix<N extends number>(A: SquareMatrix<N>, B: number[]): number[][] {
-  return A.map((row, i) => [...row, B[i]])
-}
-
-const applyGaussianElimination = (matrix: number[][]): void => {
-  const mLength = matrix.length
-
-  for (let x = 0; x < mLength; x++) {
-    const pivot = matrix[x][x]
-    
-    for (let y = x + 1; y < mLength; y++) {
-      let factor = matrix[y][x] / pivot
-      for (let z = x; z <= mLength; z++) {
-        matrix[y][z] -= factor * matrix[x][z]
-      }
-    }
-  }
-}
-
-function backSubstitution(matrix: number[][]): number[] {
-  const n = matrix.length;
-  const solution = new Array(n).fill(0);
-
-  for (let i = n - 1; i >= 0; i--) {
-    let sum = 0
-    for (let j = i + 1; j < n; j++) {
-      sum += matrix[i][j] * solution[j]
-    }
-    solution[i] = (matrix[i][n] - sum) / matrix[i][i]
-  }
-
-  return solution
-}
-
-function linearSystemResult<Nb extends number>(A: SquareMatrix<Nb>, B: number[]): void {
-  if (!isSquare(A, 3)) {
-    return console.error('Invalid matrix')
-  }
-
-  const augmented = augmentedMatrix(A, B)
-  applyGaussianElimination(augmented)
-  
-  return console.log("Solution: ", backSubstitution(augmented))
-}
-
-const A = [
-  [2, 1, -1],
-  [-3, -1, 2],
-  [-2, 1, 2]
-] as SquareMatrix<3>;
-
-const B = [8, -11, -3];
-
-if (!isSquare(A, 3)) {
-  return console.error('Matrix A needed to be equals three rows')
-}
-
-linearSystemResult(A, B)
-/* output:
-Solution: [2, 3, -1] 
-*/
-
-</details>
-</div>*\
-
