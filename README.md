@@ -36,9 +36,3 @@ A 17-year-old kid who loves studying Big O Notation. Btw, I also enjoy contribut
       See this readme code
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/Guilherme-j10/betterQJump/tree/main">
-        my fav extension~
-    </a>
-</p>
