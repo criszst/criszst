@@ -12,8 +12,15 @@ A 17-year-old kid who loves studying IoT. Btw, I also enjoy contributing to open
 <br>
 
  <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=criszst&show_icons=true&title_color=c674ff&text_color=FFFFFF&icon_color=c674ff&bg_color=0D1017&cache_seconds=23000&hide_border=true" "/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criszst&title_color=c674ff&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
+   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=criszst&show_icons=true&title_color=c674ff&text_color=FFFFFF&icon_color=c674ff&bg_color=0D1017&cache_seconds=23000&hide_border=true" "/>
+   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=criszst&title_color=c674ff&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
+   
+</div>
+
+<br>
+
+<div align="center">
+     <img height="180em" src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=criszst&limit=6" alt="Top Langs"/>
 </div>
 
 <br>
@@ -31,8 +38,9 @@ A 17-year-old kid who loves studying IoT. Btw, I also enjoy contributing to open
 
 <br>
 
-<p align="center">
-    <a href="https://github.com/criszst/criszst">
-      See this readme code
+  
+<div align="center">
+    <a  href="https://github.com/criszst/criszst">
+        <p><em>readme code</em></p>
     </a>
-</p>
+</div>
