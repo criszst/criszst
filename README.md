@@ -19,12 +19,6 @@ A 17-year-old kid who loves studying IoT. Btw, I also enjoy contributing to open
 
 <br>
 
-<div align="center">
-     <img height="180em" src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=criszst&limit=6" alt="Top Langs"/>
-</div>
-
-<br>
-
 <p align="center">
 <p align="center">
   <a href="https://skillicons.dev">
